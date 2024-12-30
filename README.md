@@ -11,7 +11,28 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Visit the Dashboard:
+# Key Deliverables
+## Performance Overview
+Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
+Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
+
+## Revenue Overview
+Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
+Insights aimed at optimizing sales strategies and improving revenue streams.
+
+## Booking Overview
+Examination of booking patterns, cancellations, and guest behavior.
+Actionable insights to enhance operational efficiency and drive revenue growth.
+
+## Skills and Technologies Used
+Data Visualization: Created interactive dashboards in Power BI.
+Revenue Analysis: Conducted detailed analysis of revenue metrics.
+Presentation Skills: Developed comprehensive presentations to communicate findings.
+Technical Proficiency: Utilized Power BI and DAX for data modeling and analysis.
+Industry Terminology: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
+Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
+
+# Visit the Live Dashboard:
 
 
 https://app.powerbi.com/view?r=eyJrIjoiNDUzNDNmOTMtNTEzZC00YzY3LTgxM2ItYThkMDYxYTYwMWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
