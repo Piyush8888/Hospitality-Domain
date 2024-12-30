@@ -11,4 +11,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Visit the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNDUzNDNmOTMtNTEzZC00YzY3LTgxM2ItYThkMDYxYTYwMWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Visit the Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiNDUzNDNmOTMtNTEzZC00YzY3LTgxM2ItYThkMDYxYTYwMWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
