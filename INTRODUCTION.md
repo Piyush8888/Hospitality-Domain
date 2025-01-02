@@ -34,5 +34,4 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 
 # Visit the Live Dashboard:
 
-
-"https://app.powerbi.com/view?r=eyJrIjoiNDUzNDNmOTMtNTEzZC00YzY3LTgxM2ItYThkMDYxYTYwMWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9"
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDUzNDNmOTMtNTEzZC00YzY3LTgxM2ItYThkMDYxYTYwMWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
